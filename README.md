@@ -1,2 +1,2 @@
-# sketch-vector-graphics
-Sketch vector graphics practice
+# sketch-designs
+Practice files for designing with Sketch
